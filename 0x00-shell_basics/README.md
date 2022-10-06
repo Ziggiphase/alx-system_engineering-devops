@@ -1,1 +1,1 @@
-prints the absolute pathe name of the working directory
+displays the content list of your working directory
