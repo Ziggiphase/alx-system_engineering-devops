@@ -1,1 +1,1 @@
-script that displays a confused smiley Ôo
+0x02. Shell, I/O Redirections and filters
