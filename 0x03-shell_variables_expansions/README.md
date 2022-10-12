@@ -1,1 +1,1 @@
-Create a script that creates an alias.
+reate a script that creates an alias.
